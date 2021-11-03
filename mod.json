@@ -1,0 +1,17 @@
+
+{
+    "_QPVersion": "0.1.1",
+    "name": "No Particles",
+    "id": "noParticles",
+    "author": "AllyPallyUK",
+    "version": "0.1.0",
+    "packageId": "com.beatgames.beatsaber",
+    "packageVersion": "1.17.1",
+    "description": "A simple Beat Saber mod for 1.17.1 that disables various particle effects",
+    "modFiles": [
+        "libnoParticles.so"
+    ],
+    "libraryFiles": [
+        "libbeatsaber-hook_2_3_2.so"
+    ]
+}
