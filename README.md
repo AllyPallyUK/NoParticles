@@ -1,6 +1,6 @@
 # No Particles
 
-A simple Beat Saber mod for 1.17.1 that disables various particle effects
+A simple Beat Saber mod for 1.17.1 that disables various particle effects.
 
 ## Credits
 
